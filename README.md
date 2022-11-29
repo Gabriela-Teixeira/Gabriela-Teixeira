@@ -1,9 +1,20 @@
 ### Olá 👋
 
-### Bio
-Me chamo Gabriela e sou designer gráfico. 
+## Gabriela Teixeira 
+### Designer Gráfico
+
+
+#### Bio
+
 <p> Trabalho com peças gráficas, digitais e cenografia, além de vídeos e animações.</p>
-<p>Sou apaixonada por cinema, arte e literatura. Adoro aprender coisas novas e tenho me interessado por programação. O digital toma cada vez mais proporções gigantescas na nossa realidade e, tornou-se essencial à todas as áreas. </p> 
+<p>Sou apaixonada por cinema, arte e literatura. Adoro aprender coisas novas e tenho me interessado por programação. </p> 
+
+![adobe illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![adobe indesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
+![adobe photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![adobe premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![adobe after effects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
+
 
 
 <!--
