@@ -15,8 +15,11 @@
 ![adobe premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![adobe after effects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
 
+[![Anurag's GitHub status](https://github-readme-status.vercel.app/api?username=gabriela-teixeira)](https://github.com/anuraghazra/github-readme-stats)
 
+# Projetos
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriela-Teixeira&repo=gabriela-teixeira.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Gabriela-Teixeira/Gabriela-Teixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
